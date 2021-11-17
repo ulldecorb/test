@@ -1,0 +1,23 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "test lab: jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ulldecorb/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ulldecorb/test/issues"
+  },
+  "homepage": "https://github.com/ulldecorb/test#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
