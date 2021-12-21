@@ -30,4 +30,12 @@ beforeEach(() => render(<Component />))
 3.- Refactors
 
 
+
+  // const [newTask, setNewTask] = useState('');
+  // const handleInput = (event) => {
+  //   setNewTask(event.target.value);
+  // };
+  // onChange={handleInput}
+
+
 */
